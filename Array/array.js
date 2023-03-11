@@ -1,6 +1,8 @@
 const numbers = [1, 4, 3, 7, 6, 3, 7]
 console.log(numbers)
 
+// Chaque nouveau tableau sera dans une nouvelle variable
+
 // Classez le tablaeau dans l'ordre (sort) du plus petit au plus grand
 
 console.log('Number Ordering : ', 'your new array')
